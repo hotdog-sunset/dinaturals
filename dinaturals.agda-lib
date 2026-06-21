@@ -1,0 +1,4 @@
+name: dinaturals
+depend: standard-library-2.3, agda-categories
+include: .
+flags: --postfix-projections

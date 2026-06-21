@@ -1,0 +1,6 @@
+{
+
+  "agdaMode.connection.paths": [
+    "/nix/store/zii02252bh69dq9057g5q8p7ln6z6cq2-agdaWithPackages-2.8.0/bin/agda"
+  ],
+}
